@@ -1,0 +1,27 @@
+{
+  "name": "es2015-module-loader-n-testing",
+  "version": "0.1.0",
+  "description": "A simple demo repo outlining some es2015 basics and test strategies",
+  "scripts": {
+    "test": "make test-cov",
+    "test:mocha": "mocha 'test/mocha/**/*.js' --compilers js:babel/register"
+  },
+  "author": "Mark C.",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.12",
+    "babel-core": "^5.8.12",
+    "babelify": "^6.1.3",
+    "browserify": "^11.0.0",
+    "chai": "^3.2.0",
+    "code": "^1.4.1",
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "lab": "^5.14.0",
+    "lab-babel": "^1.1.0",
+    "mocha": "^2.2.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
