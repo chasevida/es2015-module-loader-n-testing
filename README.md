@@ -1,4 +1,4 @@
-# ES2015 Simple Tutorial
+# ES2015 Module Loader n' Tests
 
 This repo contains a simple demo to supplement a tutorial on how to do some basic **ES2015** (ES6) transpiling with [Babel](https://babeljs.io/). The main focus here is to help others get up and running quickly writing ES2016 style javascript, specifically to use the module loader and how to implement a basic testing strategy.
 
@@ -22,7 +22,7 @@ Then cd into the public folder and run the server.
 
 	$ cd public
 	$ http-server
-	
+
 Done!
 
 ## JS Module Loader
