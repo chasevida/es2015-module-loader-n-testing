@@ -7,8 +7,8 @@ The testing suites we use here are pretty similar, one is [Mocha](https://www.np
 
 ## Installation
 
-	$ git clone git@github.com:chasevida/es2015-simple-tut.git
-	$ cd es2015-simple-tut
+	$ git clone git@github.com:chasevida/es2015-module-loader-n-testing.git
+	$ cd es2015-module-loader-n-testing
 	$ npm install
 
 
